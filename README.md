@@ -8,4 +8,5 @@ Este repositorio ha sido creado como parte de una tarea para demostrar el proces
 
 ## Instrucciones
 
-Para comenzar a trabajar en este proyecto, clona el repositorio a tu máquina local:
+Para comenzar a trabajar en este proyecto, clona el repositorio a tu máquina local usando esta URL:
+https://github.com/DavidGallegos136/proyecto_en_blanco.git
